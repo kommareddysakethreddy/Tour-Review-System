@@ -6,8 +6,8 @@ from email.message import EmailMessage
 
 
 def mailing(email):
-    EMAIL_ADDRESS = 'kommareddysaketh@gmail.com'
-    EMAIL_PASSWORD = 'klxbsbrmusvwhyyd'
+    EMAIL_ADDRESS = <EMAIL>
+    EMAIL_PASSWORD = <APP_PASSWORD>
 
     contacts = []
     contacts.append(email)
